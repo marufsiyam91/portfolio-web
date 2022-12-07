@@ -1,0 +1,40 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+section{
+    height: 400px;
+    padding-bottom: 400px;
+}
+.half-width{
+    width: 34%;
+    float: left;
+    margin: 8%;
+}
+.half-width img{
+    width: 95%;
+}
+.high-name{
+    font-size: 40px;
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.header{
+    background-image: url(images/header-bg.png);
+}
+.leatest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.third-width img{
+    width: 28%;
+    float: left;
+    padding-left: 4%;
+}
+.text{
+    text-align: center;
+}
